@@ -1,11 +1,3 @@
-/*
- * @Files: 
- * @Version: 1.0
- * @Author: jiang.liu
- * @Date: 2021-02-25 11:41:08
- * @LastEditors: jiang.liu
- * @LastEditTime: 2021-02-25 14:00:30
- */
 import 'package:flutter/material.dart';
 
 void main() {
